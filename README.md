@@ -1,5 +1,5 @@
 ##  MultiBlogs - Multi Authors Blog Project in Django/Python
-#### Navigation : [Technology](#technology-used---)--[Setup Local](#how-to-setup-in-windowsmaclinux)--[Project Features](#project-features---)--[Project Images](#project-images)--[Issues](#issues--questions)--[Ower Info ](#repository-owner-info) 
+#### Navigation : [Technology](#technology-used---)--[Setup Local](#how-to-setup-in-windowsmaclinux)--[Project Features](#project-features---)--[Project Images](#project-images)--[Issues](#issues--questions)
 
   
 
@@ -82,20 +82,7 @@
 ![search result](images/readme/search.png "search result")
 
 ![without search result](images/readme/without_search.png " without search result")
-### Issues & Questions
-This project is scalable. Anyone can contribute here. Anyone can use it as it is Under __MIT License__ .<br>
-If anyone wants to contribute to the project then first make an [Issues](https://github.com/yeazin/Multi-Authors-advanced-Django-Blog/issues) here.<br>
-For further information anyone can knock me at __Email__ & __Facebook__ which is given in the [Owner Info](#repository-owner-info). <br>
-Thanks !!!<br>
-### Repository Owner Info 
 
-__Md. Nazrul Islam Yeasin__ <br>
-__Email :__ [ naz.yeasin@gmail.com ](mailto:naz.yeasin@gmail.com) <br>
-__Github :__ [yeazin](https://github.com/yeazin)<br>
-__FaceBook :__ [Yea Sin](https://facebook.com/yeazin.io) <br>
-__Linkedin :__ [Yea Sin](https://www.linkedin.com/in/yeazin/)
-<br>
-<br>
 
 [Go To Top ↑ ](#multiblogs---multi-authors-blog-project-in-djangopython)  
 
