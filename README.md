@@ -1,5 +1,5 @@
 ##  MultiBlogs - Multi Authors Blog Project in Django/Python
-#### Navigation : [Technology](#technology-used---)--[Setup Local](#how-to-setup-in-windowsmaclinux)--[Project Features](#project-features---)--[Project Images](#project-images)--[Issues](#issues--questions)
+#### Navigation : [Technology](#technology-used---)--[Setup Local](#how-to-setup-in-windowsmaclinux)--[Project Features](#project-features---)--[Issues](#issues--questions)
 
   
 
@@ -68,23 +68,6 @@
 9. Dedicated Single Category page by ( featured, popular, recently added).
 10. Social Media Sharing System & Much More.
 
-### Project Images 
-
-#### User Register page
-![Register User Frontend](images/readme/register.png "Frontend User Register Page")
-#### Users Login Page
-![Login User Frontend](images/readme/login.png "Frontend User Login Page")
-#### Category Page
-![category](images/readme/category.png "category page")
-#### Single Blog Post Page
-![single](images/readme/single.png "single blog page")
-#### Search Result Page
-![search result](images/readme/search.png "search result")
-
-![without search result](images/readme/without_search.png " without search result")
-
-
-[Go To Top ↑ ](#multiblogs---multi-authors-blog-project-in-djangopython)  
 
 
 
