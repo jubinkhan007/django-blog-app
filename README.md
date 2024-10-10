@@ -17,7 +17,7 @@
 2. Frontend User Admin Panel [ SB Admin 2 ](https://startbootstrap.com/theme/sb-admin-2).
 
 ### How to SETup in Windows/MAC/Linux
-1. Clone this Project <code>git clone https://github.com/yeazin/Multi-Authors-advanced-Django-Blog.git </code>
+1. Clone this Project
 2. Go to Project Directory <code>cd Multi-Authors-advanced-Django-Blog </code>
 3. Create a Virtual Environment :-
     * for Windows <code>python -m venv env </code>
